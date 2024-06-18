@@ -19,13 +19,20 @@ if (navClose) {
 /*=============== REMOVE MENU MOBILE ===============*/
 const navLink = document.querySelectorAll('.nav__link');
 
-const linkAction = () =>{
+const linkAction = () => {
     const navMenu = document.getElementById('nav-menu')
     navMenu.classList.remove('show-menu')
 }
 navLink.forEach(n => n.addEventListener('click', linkAction))
-/*=============== SHADOW HEADER ===============*/
 
+
+/*=============== SHADOW HEADER ===============*/
+const shadowHeader = () => {
+    const header = document.getElementById('header')
+    this.scrollY >= 50 ? header.classList.add('shadow-header')
+        : header.classList.remove('shadow-header')
+}
+window.addEventListener('scroll', shadowHeader)
 
 /*=============== SWIPER FAVORITES ===============*/
 
