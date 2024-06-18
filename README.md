@@ -1,4 +1,4 @@
-<h4 style="color :Yellow; text-align:center;">This project is still under construction</h4>
+$${\color{red} 👷 \space This \space project \space is \space still \space under \space construction}$$
 
 ## Project Name : Amazing Chips Website
 
