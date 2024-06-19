@@ -23,6 +23,7 @@ You can view a live demo of the project [Click Here](#).
 - Javascript
 - Favicon
 - Remixicon
+- Swiper CSS ( Swiper is the most modern free and open source mobile touch slider with hardware accelerated transitions and amazing native behavior. Use it on websites, web apps, and mobile native/hybrid apps. )
 
 
 ## Resources Used
