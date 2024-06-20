@@ -1,3 +1,5 @@
+/* Author : Pranto Kumar */
+
 /*=============== GOOGLE FONTS ===============*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Titan+One&display=swap");
 
@@ -140,11 +142,6 @@ img {
   font-size: 1.5rem;
   cursor: pointer;
 }
-
-
-
-
-
 
 
 
@@ -457,8 +454,30 @@ img {
 }
 
 /*=============== BANNER ===============*/
-
-
+.banner {
+padding-top: 3rem;
+}
+.banner__container {
+background-color: var(--second-color);
+padding: 1rem 1.5rem;
+}
+.banner__list {
+display: flex;
+justify-content: center;
+column-gap: 1.5rem;
+}
+.banner__item {
+color: var(--second-color-dark);
+display: flex;
+align-items: center;
+column-gap: .5rem;
+}
+.banner__item i {
+  font-size: 1.5rem;
+}
+.banner__item span {
+  font-size: var(--small-font-size) var(--second-font);
+}
 /*=============== PRODUCTS ===============*/
 
 
