@@ -39,7 +39,7 @@ const swiperFavorites = new Swiper('.favorites__swiper', {
     loop: true,
     grabCursor: true,
     slidesPerview: 'auto',
-    centereSlides: 'auto'
+    centeredSlides: 'auto',
 })
 
 /*=============== SHOW SCROLL UP ===============*/
