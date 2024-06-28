@@ -6,8 +6,9 @@ $${\color{red} 👷 \space This \space project \space is \space still \space und
 A responsive chips website is all about using little clickable boxes, called chips, to give users a clean and adaptable way to interact with a website. Imagine colorful tags or buttons that can change their size and layout to fit any screen, that's the gist!
 
 ## Live Demo
-You can view a live demo of the project [Click Here](#).
+You can view a live demo of the project [Click Here](https://pranto113015.github.io/Amazing-Chips-Website/).
 
+![preview img](/assets/img/demo.png)
 
 ## Features
 - Chips Website Design Using HTML CSS And JavaScript
