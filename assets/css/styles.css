@@ -1106,4 +1106,7 @@ img {
   .footer__container{
     row-gap: 3rem;
   }
+  .scrollup{
+    right: 3rem;
+  }
 }
