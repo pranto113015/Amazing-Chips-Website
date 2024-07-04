@@ -791,6 +791,7 @@ img {
     max-width: 600px;
     overflow-x: clip;
     justify-self: center;
+    padding: 1rem 13rem;
   }
 
   .product__content {
@@ -915,9 +916,7 @@ img {
   }
 
   .favorite__container {
-    /* grid-template-columns: 520px; */
     row-gap: 4rem;
-
   }
 
   .favorites__cheese-1,
@@ -935,6 +934,9 @@ img {
 
   .favorites__swiper {
     max-width: 1000px;
+    /* padding-left: 25rem; */
+    width: 336px;
+    margin-left: 24rem;
   }
 
   .favorite__article,
