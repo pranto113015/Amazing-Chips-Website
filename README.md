@@ -1,4 +1,4 @@
-$${\color{red} 👷 \space This \space project \space is \space still \space under \space construction}$$
+<!-- $${\color{red} 👷 \space This \space project \space is \space still \space under \space construction}$$ -->
 
 ## Project Name : Amazing Chips Website
 
