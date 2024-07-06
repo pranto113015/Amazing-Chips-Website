@@ -287,7 +287,7 @@ img {
   box-shadow: inset var(--shadow-circle);
 }
 
-.home__images .home_img {
+.home__images .home__img {
   width: 250px;
   rotate: 10deg;
   filter: var(--shadow-img);
@@ -300,32 +300,32 @@ img {
   position: absolute;
 }
 
-.home_chips-1 {
+.home__chips-1 {
   right: -.5rem;
 }
 
-.home_chips-2 {
+.home__chips-2 {
   bottom: -.75rem;
   right: .5rem;
 }
 
 
-.home_chips-3 {
+.home__chips-3 {
   top: .25rem;
   left: -.5rem;
 }
 
-.home_tomato-1 {
+.home__tomato-1 {
   top: -1.5rem;
   right: 2.5rem;
 }
 
-.home_tomato-2 {
+.home__tomato-2 {
   left: 3.5rem;
   bottom: -1.5rem;
 }
 
-.home_leaf {
+.home__leaf {
   left: -.75rem;
 }
 
@@ -599,7 +599,7 @@ img {
   text-align: center;
 }
 
-.contact_title {
+.contact__title {
   font: var(--font-regular) var(--h2-font-size) var(--second-color);
   margin-bottom: .5rem;
 }
@@ -757,7 +757,7 @@ img {
     height: 200px;
   }
 
-  .home__images .home_img {
+  .home__images .home__img {
     width: 200px;
   }
 
@@ -910,7 +910,7 @@ img {
     height: 430px;
   }
 
-  .home__images .home_img {
+  .home__images .home__img {
     width: 400px;
   }
 
@@ -1070,7 +1070,7 @@ img {
     gap: 3rem 2rem;
   }
 
-  .contact_title {
+  .contact__title {
     margin-bottom: .75rem;
   }
 
