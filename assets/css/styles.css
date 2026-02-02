@@ -804,7 +804,8 @@ img {
     grid-template-columns: 450px;
     justify-content: center;
   }
-  .contact__img{
+
+  .contact__img {
     padding-top: 1rem;
   }
 }
@@ -1106,13 +1107,16 @@ img {
     left: 12rem;
     bottom: -1rem;
   }
-  .footer{
+
+  .footer {
     padding-block: 5rem 3rem;
   }
-  .footer__container{
+
+  .footer__container {
     row-gap: 3rem;
   }
-  .scrollup{
+
+  .scrollup {
     right: 3rem;
   }
 }
