@@ -53,6 +53,16 @@ const scrollUp = () => {
 }
 window.addEventListener('scroll', scrollUp)
 
+
+
+/*=============== Dynamic Year Change ===============*/
+const year = document.getElementById("year");
+
+if (year) {
+   year.textContent = new Date().getFullYear();
+}
+
+
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 const sections = document.querySelectorAll('section[id]')
 
